@@ -73,5 +73,3 @@ Gunakan bilah navigasi hitam di bagian paling atas layar (**Simulasi Peran**) un
 * **Tunggul Abdul Majid** — `242410102058`
 * **Rafi Hadianto Aribowo** — `242410102006`
 * **Ezra Yuda Dwi Rismawan** — `232410101013`
-
-*Program Studi Teknologi Informasi, Fakultas Ilmu Komputer — Universitas Jember*
